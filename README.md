@@ -1,10 +1,10 @@
 ## Olá! eu sou Francisco Marcello 🙋‍♂️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-marcello/)
-
-![LulaMolusco GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoMarcello&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoMarcello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display:inline_block"><br/>
+  
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=franciscoMarcello&show_icons=true&theme=dracula"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoMarcello&layout=compact&langs_count=7&theme=dracula" />
+</div> 
 
 ## Tecnologias que estudo 📚
 <div style="display:inline_block"><br/>
@@ -17,4 +17,4 @@
 <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div> <br/>
-
+  ![Snake animation](https://github.com/franciscoMarcello/franciscoMarcello/blob/output/github-contribution-grid-snake.svg)
