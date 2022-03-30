@@ -16,5 +16,7 @@
 <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+  
 </div> <br/>
-  ![Snake animation](https://github.com/franciscoMarcello/franciscoMarcello/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/franciscoMarcello/franciscoMarcello/blob/output/github-contribution-grid-snake.svg)
+ 
