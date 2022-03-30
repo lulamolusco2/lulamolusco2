@@ -1,9 +1,9 @@
 ## Olá! eu sou Francisco Marcello 🙋‍♂️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-marcello/)
 
-![LulaMolusco GitHub stats](https://github-readme-stats.vercel.app/api?username=lulamolusco2&show_icons=true&theme=radical)
+![LulaMolusco GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoMarcello&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulamolusco2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoMarcello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que estudo 📚
